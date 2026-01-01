@@ -1,2 +1,3 @@
-# nealandeposi.github.io
-Site Content From Wedding Website
+# Wedding Website Content
+
+Site content from our wedding website ([nealandeposi.com](https://www.nealandeposi.com)).
